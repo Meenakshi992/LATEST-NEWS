@@ -1,2 +1,8 @@
 streamlit
 openai
+pandas
+pymupdf
+chromadb
+pysqlite3-binary
+langchain-text-splitters
+scikit-learn
